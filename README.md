@@ -5,7 +5,7 @@
 3. Start express and webpack server in dev mode
 > npm run start
 
-I did not implement some feature, I think for test task not needed :
+I did not implement some feature, I think for test task is not needed :
    - products does not delete from mongo
    - unique name validator
    - props Type validation
